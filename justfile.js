@@ -6,6 +6,8 @@ function sayHello() {
 
     console.log(`Just mega update for pull request demo ${Math.random()}`);
 
+    console.log("Hotfix here :)");
+
 }
 
 sayHello();
