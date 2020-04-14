@@ -8,6 +8,8 @@ function sayHello() {
 
     console.log("Hotfix here :)");
 
+    console.log("The Yurkovskiy would like to help you Yurkovskiy :)");
+
 }
 
 sayHello();
