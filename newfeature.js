@@ -1,6 +1,6 @@
 function getTimeStamp() {
     let d = new Date();
-    return `${add0(d.getDate())}/${add0(d.getMonth() + 1)}/${d.getFullYear()}`;
+    return `Current date: ${add0(d.getDate())}/${add0(d.getMonth() + 1)}/${d.getFullYear()}`;
 }
 
 function add0(value) {
